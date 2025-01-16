@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/shubh/ros2_submeeting/my_custom_msgs",
+    "cmake.ignoreCMakeListsMissing": true
+}
