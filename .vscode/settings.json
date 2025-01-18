@@ -1,4 +1,40 @@
 {
     "cmake.sourceDirectory": "/home/shubh/ros2_submeeting/my_custom_msgs",
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "python.autoComplete.extraPaths": [
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/mavlink_pressure_node/lib/python3.10/site-packages",
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/custom_msgs/local/lib/python3.10/dist-packages",
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/autonomous_rov/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/teleop_twist_keyboard/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/py_trees_ros_viewer/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/kinpy/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/blue_localization/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_utils/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_planning/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_mux/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_kinematics/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_control/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_behaviors/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/mavlink_pressure_node/lib/python3.10/site-packages",
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/custom_msgs/local/lib/python3.10/dist-packages",
+        "/home/tohlob/Desktop/BlueRov2_Robot/ros2_submeeting/install/autonomous_rov/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/teleop_twist_keyboard/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/py_trees_ros_viewer/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/kinpy/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/blue_localization/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_utils/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_planning/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_mux/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_kinematics/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_control/lib/python3.10/site-packages",
+        "/home/tohlob/ros2_ws/install/angler_behaviors/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
 }
