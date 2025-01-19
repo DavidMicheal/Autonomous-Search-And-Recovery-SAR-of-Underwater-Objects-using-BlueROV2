@@ -62,4 +62,4 @@ Authors & Contact
 
 Institution: CIRTESU / Universitat Jaume I (UJI), Castellón, Spain
 
-For inquiries or collaboration proposals, please open an issue in this repository or refer to the contact details in the `Final Report (docs/Final_Report.pdf)`.
+For inquiries or collaboration proposals, please open an issue in this repository or refer to the contact details in the `Final Report (Bluerov_Cirtesu_Report.pdf)`.
